@@ -1,0 +1,31 @@
+.tb-1{
+    margin: auto;
+    text-align: center;
+    margin-top: 200px;
+    border-collapse: collapse; 
+}
+.tb-1 th,td{
+    width: 175px;
+    height: 65px;
+    box-shadow: 5px 10px 10px 1px rgba(0, 0, 0, 0.61);
+     
+    
+}
+body{
+    background-color: rgba(255, 20, 149);
+    box-shadow: inset 10px;
+}
+.tb-1 td{
+    color: white;
+}
+tr:nth-child(odd){
+    background-color: #03018b;
+}
+.tb-1 th{
+    color: #fd9f2d;
+    background-color: #8a2be1;
+}
+.tb-1{
+    box-shadow:1px 1px 15px 2px;
+    
+}
